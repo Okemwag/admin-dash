@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "types": ["vue", "@types/node"]
+  },
+  "include": [
+    "src/**/*",
+    "src/**/*.vue"
+  ]
+}
